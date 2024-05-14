@@ -7,5 +7,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(3700, () => {
-  console.log("Express is Connected on port 3000");
+  console.log("Express is Connected on port 3700");
 });
